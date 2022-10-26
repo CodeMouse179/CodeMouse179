@@ -1,6 +1,6 @@
 # CodeMouse179
 
-Identicon:
+[Identicon](http://identicon.net/)
 
 <img src="https://github.com/identicons/CodeMouse179.png" width="150" height="150"/>
 

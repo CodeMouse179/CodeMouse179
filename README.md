@@ -8,8 +8,10 @@
 
 <img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/sleeping%20mouse.png" width="180" height="120">
 
-Tools:
+Dev Tools:
 
-1. Visual Studio Community 2022 17.3.6 (x64)
+1. [Visual Studio Community 2022 17.3.6 (x64)](https://visualstudio.microsoft.com/)
 
-1. Github Desktop 3.1.2 (x64)
+1. [Visual Studio Code 1.72.2 (x64)](https://code.visualstudio.com/)
+
+1. [Github Desktop 3.1.2 (x64)](https://desktop.github.com/)

@@ -12,6 +12,6 @@ Dev Tools:
 
 1. [Visual Studio Community 2022 17.3.6 (x64)](https://visualstudio.microsoft.com/)
 
-1. [Visual Studio Code 1.72.2 (x64)](https://code.visualstudio.com/)
+1. [Visual Studio Code 1.73.0 (x64)](https://code.visualstudio.com/)
 
 1. [Github Desktop 3.1.2 (x64)](https://desktop.github.com/)

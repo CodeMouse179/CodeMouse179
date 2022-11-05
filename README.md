@@ -8,7 +8,7 @@
 
 <img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/sleeping%20mouse.png" width="180" height="120">
 
-Me:
+## Me:
 
 [Github](https://github.com/CodeMouse179)
 
@@ -16,7 +16,7 @@ Me:
 
 Gmail : codemouse179@gmail.com
 
-Dev Tools:
+## Dev Tools:
 
 1. [Visual Studio Community 2022 17.3.6 (x64)](https://visualstudio.microsoft.com/)
 

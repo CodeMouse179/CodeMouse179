@@ -16,6 +16,12 @@
 
 Gmail : codemouse179@gmail.com
 
+## Projects:
+
+* [String : System.String in C++](https://github.com/CodeMouse179/String)
+
+* [Console : System.Console in C++](https://github.com/CodeMouse179/Console)
+
 ## Dev Tools:
 
 1. [Visual Studio Community 2022 17.4.0 (x64)](https://visualstudio.microsoft.com/)

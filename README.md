@@ -20,11 +20,13 @@ Gmail : codemouse179@gmail.com
 
 * [String : System.String in C++](https://github.com/CodeMouse179/String)
 
+## My WIP Projects:
+
 * [Console : System.Console in C++](https://github.com/CodeMouse179/Console)
 
 ## Dev Tools:
 
-1. [Visual Studio Community 2022 17.4.0 (x64)](https://visualstudio.microsoft.com/)
+1. [Visual Studio Community 2022 17.4.1 (x64)](https://visualstudio.microsoft.com/)
 
 1. [Visual Studio Code 1.73.1 (x64)](https://code.visualstudio.com/)
 

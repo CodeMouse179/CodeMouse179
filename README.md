@@ -20,6 +20,8 @@ Gmail : codemouse179@gmail.com
 
 * [String : System.String in C++](https://github.com/CodeMouse179/String)
 
+* [Editor : Terminal-based editor for Windows and Linux Terminal](https://github.com/CodeMouse179/Editor)
+
 ## My WIP Projects:
 
 * [Console : System.Console in C++](https://github.com/CodeMouse179/Console)

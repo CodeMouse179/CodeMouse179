@@ -18,13 +18,27 @@ Gmail : codemouse179@gmail.com
 
 ## My Active Projects:
 
-* [String : System.String in C++](https://github.com/CodeMouse179/String)
+* [Console : System.Console in C++](https://github.com/CodeMouse179/Console)
 
 * [Editor : Terminal-based editor for Windows and Linux Terminal](https://github.com/CodeMouse179/Editor)
 
+* [String : System.String in C++](https://github.com/CodeMouse179/String)
+
+* [Singleton : Generic Singleton for C++](https://github.com/CodeMouse179/Singleton)
+
 ## My WIP Projects:
 
-* [Console : System.Console in C++](https://github.com/CodeMouse179/Console)
+* [Audio : Simple Audio class for Visual C++ based on Media Control Interface(MCI)](https://github.com/CodeMouse179/Audio)
+
+* [ccc : My first programming language](https://github.com/CodeMouse179/ccc)
+
+* [ctos : Console-Terminal Operating System(ctos) 控制台终端操作系统](https://github.com/CodeMouse179/ctos)
+
+* [fare : 2D Game Engine](https://github.com/CodeMouse179/fare)
+
+* [WinUtils : Utility for Windows](https://github.com/CodeMouse179/WinUtils)
+
+* [WinVer : WinVer is a C++ static class : Get version of Windows](https://github.com/CodeMouse179/WinVer)
 
 ## Dev Tools:
 

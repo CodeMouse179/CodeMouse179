@@ -22,9 +22,11 @@ Gmail : codemouse179@gmail.com
 
 * [Editor : Terminal-based editor for Windows and Linux Terminal](https://github.com/CodeMouse179/Editor)
 
-* [String : System.String in C++](https://github.com/CodeMouse179/String)
+* [File : System.IO.File in C++](https://github.com/CodeMouse179/File)
 
 * [Singleton : Generic Singleton for C++](https://github.com/CodeMouse179/Singleton)
+
+* [String : System.String in C++](https://github.com/CodeMouse179/String)
 
 ## My WIP Projects:
 
@@ -42,7 +44,7 @@ Gmail : codemouse179@gmail.com
 
 ## Dev Tools:
 
-1. [Visual Studio Community 2022 17.4.1 (x64)](https://visualstudio.microsoft.com/)
+1. [Visual Studio Community 2022 17.4.2 (x64)](https://visualstudio.microsoft.com/)
 
 1. [Visual Studio Code 1.73.1 (x64)](https://code.visualstudio.com/)
 

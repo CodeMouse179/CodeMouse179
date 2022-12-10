@@ -40,6 +40,8 @@ Gmail : codemouse179@gmail.com
 
 * [fare : 2D Game Engine](https://github.com/CodeMouse179/fare)
 
+* [minio : cross-platform console input/output interface](https://github.com/CodeMouse179/minio)
+
 * [WinUtils : Utility for Windows](https://github.com/CodeMouse179/WinUtils)
 
 * [WinVer : WinVer is a C++ static class : Get version of Windows](https://github.com/CodeMouse179/WinVer)

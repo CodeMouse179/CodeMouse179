@@ -16,6 +16,16 @@
 
 Gmail : codemouse179@gmail.com
 
+## Hobby:
+
+1. Foreign Language
+
+1. Psychology
+
+1. Reading
+
+1. Movie
+
 ## My Active Projects:
 
 * [3DEngine : My first 3d game engine](https://github.com/CodeMouse179/3DEngine)

@@ -1,6 +1,6 @@
 # CodeMouse179(编程鼠鼠)
 
-- 2023/1/15
+- 2023/1/23
 
 [Identicon](http://identicon.net/)
 
@@ -64,4 +64,4 @@ Gmail : codemouse179@gmail.com
 
 1. [Visual Studio Code 1.74.3 (x64)](https://code.visualstudio.com/)
 
-1. [Github Desktop 3.1.3 (x64)](https://desktop.github.com/)
+1. [Github Desktop 3.1.4 (x64)](https://desktop.github.com/)

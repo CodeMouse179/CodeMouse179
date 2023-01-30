@@ -10,58 +10,16 @@
 
 <img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/sleeping%20mouse.png" width="180" height="120">
 
-## Me:
+## Projects:
+
+* [String : System.String in C++](https://github.com/CodeMouse179/String)
+
+* [Console : System.Console in C++](https://github.com/CodeMouse179/Console)
+
+## Contact me:
 
 [Github](https://github.com/CodeMouse179)
 
 [Bilibili](https://space.bilibili.com/3461577785215838)
 
 Gmail : codemouse179@gmail.com
-
-## Hobby:
-
-1. Foreign Language
-
-1. Psychology
-
-1. Reading
-
-1. Movie
-
-## My Active Projects:
-
-* [String : System.String in C++](https://github.com/CodeMouse179/String)
-
-* [Console : System.Console in C++](https://github.com/CodeMouse179/Console)
-
-## My WIP Projects:
-
-* [3DEngine : My first 3d game engine](https://github.com/CodeMouse179/3DEngine)
-
-* [Editor : Terminal-based editor for Windows and Linux Terminal](https://github.com/CodeMouse179/Editor)
-
-* [Singleton : Generic Singleton for C++](https://github.com/CodeMouse179/Singleton)
-
-* [File : System.IO.File in C++](https://github.com/CodeMouse179/File)
-
-* [Audio : Simple Audio class for Visual C++ based on Media Control Interface(MCI)](https://github.com/CodeMouse179/Audio)
-
-* [ccc : My first programming language](https://github.com/CodeMouse179/ccc)
-
-* [ctos : Console-Terminal Operating System(ctos) 控制台终端操作系统](https://github.com/CodeMouse179/ctos)
-
-* [fare : 2D Game Engine](https://github.com/CodeMouse179/fare)
-
-* [minio : cross-platform console input/output interface](https://github.com/CodeMouse179/minio)
-
-* [WinUtils : Utility for Windows](https://github.com/CodeMouse179/WinUtils)
-
-* [WinVer : WinVer is a C++ static class : Get version of Windows](https://github.com/CodeMouse179/WinVer)
-
-## Dev Tools:
-
-1. [Visual Studio Community 2022 17.4.4 (x64)](https://visualstudio.microsoft.com/)
-
-1. [Visual Studio Code 1.74.3 (x64)](https://code.visualstudio.com/)
-
-1. [Github Desktop 3.1.4 (x64)](https://desktop.github.com/)

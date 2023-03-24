@@ -26,6 +26,14 @@
 
 * [File : System.IO.File in C++](https://github.com/CodeMouse179/File)
 
+## minos API Family:
+
+* [sys.h](https://github.com/CodeMouse179/sys)
+
+* [str.h](https://github.com/CodeMouse179/str)
+
+* [con.h](https://github.com/CodeMouse179/con)
+
 ## CodeMouse API Family:
 
 * [CodeMouse](https://github.com/CodeMouse179/CodeMouse)

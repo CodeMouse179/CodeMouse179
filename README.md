@@ -42,6 +42,8 @@
 
 * [Audio : C++ cross-platform Audio class](https://github.com/CodeMouse179/Audio)
 
+* [Singleton : Generic Singleton for C++](https://github.com/CodeMouse179/Singleton)
+
 ## GameEngine:
 
 * [fare : 2D Game Engine](https://github.com/CodeMouse179/fare)

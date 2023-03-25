@@ -26,6 +26,8 @@
 
 * [File : System.IO.File in C++](https://github.com/CodeMouse179/File)
 
+* [Random : System.Random in C++](https://github.com/CodeMouse179/Random)
+
 ## minos API Family:
 
 * [sys.h](https://github.com/CodeMouse179/sys)

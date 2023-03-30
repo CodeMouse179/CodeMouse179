@@ -44,23 +44,23 @@
 
 1. [CodeMouse](https://github.com/CodeMouse179/CodeMouse)
 
-## Tool:
+## Tools:
 
 1. [SingleHeaderFileGenerator](https://github.com/CodeMouse179/SingleHeaderFileGenerator)
 
-## Game:
+## Games:
 
 1. [zmxyRPG](https://github.com/CodeMouse179/zmxyRPG)
 
 1. [OOXX](https://github.com/CodeMouse179/OOXX)
 
-## GameEngine:
+## GameEngines:
 
 1. [fare : 2D Game Engine](https://github.com/CodeMouse179/fare)
 
 1. [3DEngine : 3D Game Engine](https://github.com/CodeMouse179/3DEngine)
 
-## Fork:
+## Forks:
 
 1. [terminal](https://github.com/CodeMouse179/terminal)
 
@@ -74,7 +74,7 @@
 
 1. [freetype](https://github.com/CodeMouse179/freetype)
 
-## Other:
+## Others:
 
 1. [ctos]()
 

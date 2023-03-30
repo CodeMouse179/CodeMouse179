@@ -44,6 +44,10 @@
 
 1. [CodeMouse](https://github.com/CodeMouse179/CodeMouse)
 
+## Rust:
+
+1. [cmdio](https://github.com/CodeMouse179/cmdio)
+
 ## Tools:
 
 1. [SingleHeaderFileGenerator](https://github.com/CodeMouse179/SingleHeaderFileGenerator)

@@ -44,13 +44,23 @@
 
 1. [CodeMouse](https://github.com/CodeMouse179/CodeMouse)
 
+## Tool:
+
+1. [SingleHeaderFileGenerator](https://github.com/CodeMouse179/SingleHeaderFileGenerator)
+
+## Game:
+
+1. [zmxyRPG](https://github.com/CodeMouse179/zmxyRPG)
+
+1. [OOXX](https://github.com/CodeMouse179/OOXX)
+
 ## GameEngine:
 
 1. [fare : 2D Game Engine](https://github.com/CodeMouse179/fare)
 
 1. [3DEngine : 3D Game Engine](https://github.com/CodeMouse179/3DEngine)
 
-## Forks:
+## Fork:
 
 1. [terminal](https://github.com/CodeMouse179/terminal)
 
@@ -64,7 +74,7 @@
 
 1. [freetype](https://github.com/CodeMouse179/freetype)
 
-## Others:
+## Other:
 
 1. [ctos]()
 
@@ -78,8 +88,6 @@
 
 1. [minio]()
 
-1. [zmxyRPG]()
-
 1. [trinity]()
 
 1. [Common]()
@@ -92,11 +100,7 @@
 
 1. [BANG_THE_DUEL]()
 
-1. [OOXX]()
-
 1. [GoodRepo]()
-
-1. [SingleHeaderFileGenerator]()
 
 1. [CodeMouse179]()
 

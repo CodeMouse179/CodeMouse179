@@ -1,6 +1,6 @@
 # CodeMouse179(编程鼠鼠)
 
-- 2023/4/2
+- 2023/4/7
 
 ## Avatar:
 
@@ -44,6 +44,10 @@
 
 1. [CodeMouse](https://github.com/CodeMouse179/CodeMouse)
 
+## Programming Environment:
+
+1. [trinity](https://github.com/CodeMouse179/trinity)
+
 ## Rust:
 
 1. [cmdio](https://github.com/CodeMouse179/cmdio)
@@ -86,33 +90,31 @@
 
 ## Others:
 
-1. [ctos]()
+1. [ctos](https://github.com/CodeMouse179/ctos)
 
-1. [WinVer]()
+1. [WinVer](https://github.com/CodeMouse179/WinVer)
 
-1. [ccc]()
+1. [ccc](https://github.com/CodeMouse179/ccc)
 
-1. [WinUtils]()
+1. [WinUtils](https://github.com/CodeMouse179/WinUtils)
 
-1. [Editor]()
+1. [Editor](https://github.com/CodeMouse179/Editor)
 
-1. [minio]()
+1. [minio](https://github.com/CodeMouse179/minio)
 
-1. [trinity]()
+1. [Common](https://github.com/CodeMouse179/Common)
 
-1. [Common]()
+1. [codemouse179.github.io](https://github.com/CodeMouse179/codemouse179.github.io)
 
-1. [codemouse179.github.io]()
+1. [Computer](https://github.com/CodeMouse179/Computer)
 
-1. [Computer]()
+1. [Algorithm](https://github.com/CodeMouse179/Algorithm)
 
-1. [Algorithm]()
+1. [BANG_THE_DUEL](https://github.com/CodeMouse179/BANG_THE_DUEL)
 
-1. [BANG_THE_DUEL]()
+1. [GoodRepo](https://github.com/CodeMouse179/GoodRepo)
 
-1. [GoodRepo]()
-
-1. [CodeMouse179]()
+1. [CodeMouse179](https://github.com/CodeMouse179/CodeMouse179)
 
 ## Contact Me:
 

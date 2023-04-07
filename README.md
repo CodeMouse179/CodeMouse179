@@ -1,6 +1,6 @@
 # CodeMouse179(编程鼠鼠)
 
-- 2023/4/7
+- 2023/4/8
 
 ## Avatar:
 
@@ -44,11 +44,15 @@
 
 1. [CodeMouse](https://github.com/CodeMouse179/CodeMouse)
 
-## Programming Environment:
+## Programming Environments:
 
 1. [trinity](https://github.com/CodeMouse179/trinity)
 
-## Rust:
+## Programming Languages:
+
+1. [ccc](https://github.com/CodeMouse179/ccc)
+
+## Rust Projects:
 
 1. [cmdio](https://github.com/CodeMouse179/cmdio)
 
@@ -94,8 +98,6 @@
 
 1. [WinVer](https://github.com/CodeMouse179/WinVer)
 
-1. [ccc](https://github.com/CodeMouse179/ccc)
-
 1. [WinUtils](https://github.com/CodeMouse179/WinUtils)
 
 1. [Editor](https://github.com/CodeMouse179/Editor)
@@ -115,6 +117,8 @@
 1. [GoodRepo](https://github.com/CodeMouse179/GoodRepo)
 
 1. [CodeMouse179](https://github.com/CodeMouse179/CodeMouse179)
+
+1. [template](https://github.com/CodeMouse179/template)
 
 ## Contact Me:
 

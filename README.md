@@ -12,6 +12,8 @@
 
 <img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/sleeping%20mouse.png" width="180" height="120">
 
+<img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/coding%20mouse.png" width="150" height="150">
+
 ## Website:
 
 [CodeMouse179's Home](https://codemouse179.github.io)

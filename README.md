@@ -56,6 +56,10 @@
 
 1. [ccc](https://github.com/CodeMouse179/ccc)
 
+## Programming Editor:
+
+1. [cme](https://github.com/CodeMouse179/cme)
+
 ## Rust Projects:
 
 1. [cmdio](https://github.com/CodeMouse179/cmdio)

@@ -1,6 +1,6 @@
 # CodeMouse179(编程鼠鼠)
 
-- 2023/4/11
+- 2023/4/13
 
 ## Avatar:
 
@@ -15,6 +15,10 @@
 [PaintMaoMao Artist](https://codemouse179.github.io/PaintMaoMao/index.html)
 
 <img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/coding%20mouse.png" width="150" height="150">
+
+[PaintMaoMao Artist](https://codemouse179.github.io/PaintMaoMao/index.html)
+
+<img src="https://github.com/CodeMouse179/CodeMouse179/blob/main/img/code%20mouse.png" width="150" height="150">
 
 ## Website:
 

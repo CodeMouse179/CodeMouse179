@@ -1,6 +1,6 @@
 # CodeMouse179(编程鼠鼠)
 
-- 2023/4/18
+- 2023/4/22
 
 ## Avatar:
 
@@ -40,7 +40,7 @@
 
 1. [Random : System.Random in C++](https://github.com/CodeMouse179/Random)
 
-## minos API Family:
+## sys API Family:
 
 1. [str.h](https://github.com/CodeMouse179/str)
 

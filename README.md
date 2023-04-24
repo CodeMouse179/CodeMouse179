@@ -1,6 +1,6 @@
 # CodeMouse179(编程鼠鼠)
 
-- 2023/4/22
+- 2023/4/24
 
 ## Avatar:
 
@@ -40,6 +40,8 @@
 
 1. [Random : System.Random in C++](https://github.com/CodeMouse179/Random)
 
+1. [Char : System.Char in C++](https://github.com/CodeMouse179/Char)
+
 ## sys API Family:
 
 1. [str.h](https://github.com/CodeMouse179/str)
@@ -55,6 +57,8 @@
 1. [Singleton : Generic Singleton for C++](https://github.com/CodeMouse179/Singleton)
 
 1. [CodeMouse](https://github.com/CodeMouse179/CodeMouse)
+
+1. [CharWidth](https://github.com/CodeMouse179/CharWidth)
 
 ## Programming Environments:
 

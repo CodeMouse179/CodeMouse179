@@ -42,6 +42,8 @@
 
 1. [Char : System.Char in C++](https://github.com/CodeMouse179/Char)
 
+1. [Math : System.Math in C++](https://github.com/CodeMouse179/Math)
+
 ## sys API Family:
 
 1. [str.h](https://github.com/CodeMouse179/str)

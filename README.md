@@ -24,9 +24,11 @@
 
 [CodeMouse179's Home](https://codemouse179.github.io)
 
-## OS:
+## html5/css/javascript
 
-1. [mos](https://github.com/CodeMouse179/mos)
+1. [TerminalEmulator](https://github.com/CodeMouse179/TerminalEmulator)
+
+1. [webgames](https://github.com/CodeMouse179/webgames)
 
 ## System API Family:
 
@@ -43,6 +45,10 @@
 1. [Char : System.Char in C++](https://github.com/CodeMouse179/Char)
 
 1. [Math : System.Math in C++](https://github.com/CodeMouse179/Math)
+
+## OS:
+
+1. [mos](https://github.com/CodeMouse179/mos)
 
 ## sys API Family:
 
@@ -66,9 +72,13 @@
 
 1. [trinity](https://github.com/CodeMouse179/trinity)
 
+1. [mod](https://github.com/CodeMouse179/mod)
+
 ## Programming Languages:
 
 1. [ccc](https://github.com/CodeMouse179/ccc)
+
+1. [yue](https://github.com/CodeMouse179/yue)
 
 ## Programming Editor:
 
@@ -149,6 +159,8 @@
 1. [Calendar](https://github.com/CodeMouse179/Calendar)
 
 1. [skarma](https://github.com/CodeMouse179/skarma)
+
+1. [Calculator](https://github.com/CodeMouse179/Calculator)
 
 ## Contact Me:
 
